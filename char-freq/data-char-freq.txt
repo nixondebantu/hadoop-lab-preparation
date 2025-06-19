@@ -1,0 +1,6 @@
+Key Learnings
+Use multiple keys (sum, count) to track different aggregates.
+
+Clean and filter input (remove punctuation) for accuracy.
+
+Use cleanup() to emit final result in reducers that need global stats.

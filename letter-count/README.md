@@ -1,4 +1,4 @@
-# Word count problem in hadoop
+# Letter count problem in hadoop
 
 ### To run the job:
 

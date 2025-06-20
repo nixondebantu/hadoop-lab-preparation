@@ -1,0 +1,9 @@
+com\dslab\WC_Runner.class
+com\dslab\LW_Mapper.class
+com\dslab\WLC_Mapper.class
+com\dslab\WLC_Reducer.class
+com\dslab\LW_Runner.class
+com\dslab\WLC_Runner.class
+com\dslab\WC_Mapper.class
+com\dslab\LW_Reducer.class
+com\dslab\WC_Reducer.class

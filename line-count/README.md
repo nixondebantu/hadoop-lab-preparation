@@ -1,4 +1,4 @@
-# Word count problem in hadoop
+# Line count problem in hadoop
 
 ### To run the job:
 
